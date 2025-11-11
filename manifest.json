@@ -1,6 +1,6 @@
 {
-    "name": "myporto",
-    "short_name": "myporto",
+    "name": "myportowebflutter",
+    "short_name": "myportowebflutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
